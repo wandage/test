@@ -12,7 +12,7 @@ def findMax(li):
 
 
 print(findMax(li))
-print("66")
+print("66888")
 
 
 
